@@ -266,7 +266,7 @@ __pycache__/
 # ignore stuff from SFML.Net
 
 obj/
-lib/
+# lib/
 examples/*/*.dll
 examples/*/*.xml
 *.exe
